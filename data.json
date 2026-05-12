@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Company Overview",
+    "content": "TitanQIO is a technology company specialising in AI-driven solutions for enterprise clients. It focuses on building scalable AI systems using cloud-native architectures. The company works with large enterprise datasets and prioritises reliability and performance in production environments."
+  },
+  {
+    "id": 2,
+    "title": "AI Architecture",
+    "content": "TitanQIO uses Retrieval-Augmented Generation (RAG) to enhance large language model outputs. This approach combines vector search with LLMs to ground responses in internal company knowledge, improving accuracy and reducing hallucinations."
+  },
+  {
+    "id": 3,
+    "title": "Technology Stack",
+    "content": "TitanQIO solutions commonly integrate with Azure AI services, OpenAI APIs, and AWS cloud infrastructure. Key technical areas include embeddings, vector databases, API orchestration, and containerised deployments. Security and data governance are critical design considerations."
+  },
+  {
+    "id": 4,
+    "title": "Use Cases",
+    "content": "Typical use cases include intelligent chat assistants, enterprise document search systems, analytics platforms, and workflow automation tools. These systems allow users to interact with structured and unstructured data using natural language queries."
+  },
+  {
+    "id": 5,
+    "title": "Business Scenario",
+    "content": "A client wants to deploy an internal AI assistant that can answer employee questions about company processes, policies, and technical documentation. The assistant must be accurate, fast, and capable of handling multiple queries simultaneously."
+  }
+]

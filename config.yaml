@@ -1,0 +1,11 @@
+app:
+  name: "TitanQIO Assessment RAG (Local)"
+llm:
+  provider: "ollama" # Using Ollama as the LLM provider, which allows for local hosting of models like Mistral and Llama3
+  model: "mistral" # Specify the Mistral model, ensure it's available in your Ollama setup
+  temperature: 0.0
+retrieval:
+  embedding_model: "nomic-embed-text" # Ollama embedding model, ensure it's available in your Ollama setup
+  chunk_size: 200 # Adjusted chunk size for better context handling, especially for technical documents
+  chunk_overlap: 20 # Increased overlap to ensure better context continuity between chunks
+  k_results: 4 # previsuously 2, increased to 4 for potentially better retrieval results
