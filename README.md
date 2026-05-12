@@ -216,5 +216,5 @@ titanq-rag/
 
 **Sinethemba Makoma** — Senior Data Scientist & ML Engineer, Cape Town
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR_HANDLE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sinethemba-makoma-289a618b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Imesim94)
