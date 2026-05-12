@@ -1,0 +1,10 @@
+# Create this file as .gitignore in your project root
+__pycache__/
+*.pyc
+*.log
+titanq_rag.log
+torch_cache/
+hf_cache/
+.vscode/
+*.ipynb_checkpoints
+chroma_db/
